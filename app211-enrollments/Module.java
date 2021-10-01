@@ -18,7 +18,7 @@ public class Module
     public Module()
     {
         // initialise instance variables
-        x = 0;
+       //x = 0;
     }
     
 }
