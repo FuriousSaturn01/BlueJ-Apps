@@ -24,13 +24,13 @@ public class Student
      */
     public Student()
     {
-        this("Derek", 12345678);
+        this("Derek",12345678);
     }
     
     /**
      * Create a new student with a given name and ID number.
      */
-    public Student(String name, int id)
+    public Student(String name,int id)
     {
         this.name = name;
         this.id = id;
